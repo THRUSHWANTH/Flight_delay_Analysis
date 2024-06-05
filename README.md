@@ -9,7 +9,7 @@ This project aims to analyze flight delays caused by various factors, enabling a
 ![Tools Used](Visualizations/Tools.png)
 
 ## Workflow
-![Workflow](Visualizations/Architectural Diagram.png)
+![Workflow](Visualizations/ArchitecturalDiagram.png)
 
 1. **Data Download**:
    - Download the data from [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7). The dataset spans 12 years, from 1987 to 1998.
