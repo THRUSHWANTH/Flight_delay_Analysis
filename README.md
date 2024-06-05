@@ -6,7 +6,7 @@ The aviation industry is pivotal in connecting businesses and people worldwide, 
 This project aims to analyze flight delays caused by various factors, enabling airlines to take proactive measures to minimize delays and helping passengers plan their journeys more effectively.
 
 ## Tools Used
-![Tools Used](Visualizations/Tools.png)
+![Tools Used](Visualizations/tools.png)
 
 ## Workflow
 ![Workflow](Visualizations/ArchitecturalDiagram.png)
